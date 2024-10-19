@@ -1,5 +1,3 @@
-# Here's a simple automatic installer script for the Story Node setup. You can run this script in your terminal
-
 #!/bin/bash
 
 # Update and install required packages
